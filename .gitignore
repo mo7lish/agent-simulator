@@ -1,0 +1,34 @@
+# --- OS / IDE ---
+.DS_Store
+*.iml
+/.idea/
+/.kotlin/
+
+# --- Gradle / build output ---
+.gradle/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+/local.properties
+
+# --- Signing credentials (never commit) ---
+*.keystore
+*.jks
+keystore.properties
+
+# --- Build artifacts ---
+*.apk
+*.aab
+
+# --- University report deliverables (not part of the game) ---
+/Submission/
+/storyboard/
+Agent Simulator - Development Report.docx
+Agent Simulator - Development Report.pdf
+build_report.py
+make_storyboard.py
+make_sdlc.py
+um logo no bg.png
+*.pptx

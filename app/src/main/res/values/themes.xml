@@ -1,0 +1,8 @@
+<resources>
+    <!-- Framework-only light theme (no Material Components dependency). All UI is drawn by Compose. -->
+    <style name="Theme.AgentSimulator" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/sarj_bg</item>
+        <item name="android:statusBarColor">@color/sarj_bg</item>
+        <item name="android:navigationBarColor">@color/sarj_bg</item>
+    </style>
+</resources>

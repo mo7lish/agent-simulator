@@ -1,0 +1,6 @@
+<resources>
+    <!-- Window background shown before Compose draws (matches the light canvas). -->
+    <color name="sarj_bg">#F6F7FB</color>
+    <!-- Adaptive launcher icon background (indigo, matches the app_icon tile). -->
+    <color name="ic_launcher_bg">#5B5BD6</color>
+</resources>
